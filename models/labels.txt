@@ -1,0 +1,2 @@
+0 bom estado
+1 com defeito
